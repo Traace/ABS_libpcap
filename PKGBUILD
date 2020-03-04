@@ -3,7 +3,8 @@
 
 pkgname=libpcap
 pkgver=1.9.1
-pkgrel=2
+pkgrel=10
+groups=('modified')
 pkgdesc='A system-independent interface for user-level packet capture'
 arch=('x86_64')
 url='https://www.tcpdump.org/'
